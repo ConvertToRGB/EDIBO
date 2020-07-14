@@ -1,0 +1,13 @@
+/home/user/EDIBO/14_07_2020/dev/MySecondApp/bin/Debug/netcoreapp3.1/MySecondApp
+/home/user/EDIBO/14_07_2020/dev/MySecondApp/bin/Debug/netcoreapp3.1/MySecondApp.deps.json
+/home/user/EDIBO/14_07_2020/dev/MySecondApp/bin/Debug/netcoreapp3.1/MySecondApp.runtimeconfig.json
+/home/user/EDIBO/14_07_2020/dev/MySecondApp/bin/Debug/netcoreapp3.1/MySecondApp.runtimeconfig.dev.json
+/home/user/EDIBO/14_07_2020/dev/MySecondApp/bin/Debug/netcoreapp3.1/MySecondApp.dll
+/home/user/EDIBO/14_07_2020/dev/MySecondApp/bin/Debug/netcoreapp3.1/MySecondApp.pdb
+/home/user/EDIBO/14_07_2020/dev/MySecondApp/obj/Debug/netcoreapp3.1/MySecondApp.csprojAssemblyReference.cache
+/home/user/EDIBO/14_07_2020/dev/MySecondApp/obj/Debug/netcoreapp3.1/MySecondApp.AssemblyInfoInputs.cache
+/home/user/EDIBO/14_07_2020/dev/MySecondApp/obj/Debug/netcoreapp3.1/MySecondApp.AssemblyInfo.cs
+/home/user/EDIBO/14_07_2020/dev/MySecondApp/obj/Debug/netcoreapp3.1/MySecondApp.csproj.CoreCompileInputs.cache
+/home/user/EDIBO/14_07_2020/dev/MySecondApp/obj/Debug/netcoreapp3.1/MySecondApp.dll
+/home/user/EDIBO/14_07_2020/dev/MySecondApp/obj/Debug/netcoreapp3.1/MySecondApp.pdb
+/home/user/EDIBO/14_07_2020/dev/MySecondApp/obj/Debug/netcoreapp3.1/MySecondApp.genruntimeconfig.cache
