@@ -1,0 +1,42 @@
+body { color: #DBBF9D
+}
+
+th{
+color: white
+}
+
+a {
+color: white
+}
+
+#t01 {
+  width: 50%;
+  background-color: #946D69;
+}
+
+img {width:300px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.graph .labels.x-labels {
+  text-anchor: middle;
+}
+
+.graph .labels.y-labels {
+  text-anchor: end;
+}
+
+
+.graph {
+  height: 500px;
+  width: 800px;
+}
+
+.graph .grid {
+  stroke: #ccc;
+  stroke-dasharray: 0;
+  stroke-width: 1;
+}
