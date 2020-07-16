@@ -6,6 +6,10 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { MatSliderModule } from '@angular/material/slider';
 
+import { MatButtonToggleModule } from '@angular/material/button-toggle';
+
+import { MaterialModule} from './material/material.module'
+
 @NgModule({
   declarations: [
     AppComponent
@@ -13,10 +17,12 @@ import { MatSliderModule } from '@angular/material/slider';
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
-    MatSliderModule
+    MatSliderModule,
+    MatButtonToggleModule,
+    MaterialModule
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
 
+export class AppModule { }

@@ -1,0 +1,14 @@
+.make-it-inline{
+    display: inline;
+}
+img {
+    border-radius: 13px;
+    margin: 10px;
+    border: 1px solid gray;
+    transition: all .2s;
+}
+
+img:hover{
+    transform: scale(1.1);
+    border-color: hotpink;
+}
